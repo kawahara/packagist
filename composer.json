@@ -37,7 +37,7 @@
         "jms/security-extra-bundle": "1.2.*",
         "jms/di-extra-bundle": "1.1.*",
 
-        "composer/composer": "dev-master",
+        "composer/composer": "1.0.0-alpha6",
         "friendsofsymfony/user-bundle": "1.*",
         "hwi/oauth-bundle": "dev-master",
         "nelmio/solarium-bundle": "1.*",
